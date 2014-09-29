@@ -1,1 +1,2 @@
 Hello! Ceci est la première ligne de mon texte.
+Voici la deuxième ligne.
